@@ -1,3 +1,5 @@
+![pizza-slice](https://github.com/user-attachments/assets/a67fb08e-f5dd-444e-b940-b2f734d47a18)
+
 # Pizza Sales Analysis
 
 This project utilizes the [Pizza Place Sales dataset](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales) 
